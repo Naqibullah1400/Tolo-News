@@ -118,6 +118,9 @@ footer div a {
 }
 
 @media screen and (max-width: 800px) {
+    header h5 {
+        font-size: 1rem !important;
+    }
     main {
         width: 90% !important;
         margin: auto !important;
